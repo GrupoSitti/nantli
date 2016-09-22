@@ -46,6 +46,35 @@
   </table>
 </div>
 
+<p>Documentacion que acompaña al prototipo <strong></p>
+
+<div class="container">
+  <h2>Documentacion</h2>
+  <p>La documentacion que acompaña al prototipo puede ser consultada en el archivo raiz "public_html":</p>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Titulo del documento</th>
+        <th>Nombre del archivo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Plan de trabajo</td>
+        <td>1. Plan de trabajo-Nantli.pdf</td>
+      </tr>
+      <tr>
+        <td>Cronograma de actividades</td>
+        <td>1. Cronograma de actividades Nantli.pdf</td>
+      </tr>
+      <tr>
+        <td>Licencia open source</td>
+        <td>1. Licencia open source.docx</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <p><strong>La mision</strong></p>
 
 <blockquote>
