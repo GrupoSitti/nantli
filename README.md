@@ -17,7 +17,7 @@
 
 <div class="container">
   <h2>Usuarios del sistema</h2>
-  <p>Para hacer pruebas al sistema, ingrese con los siguientes usuarios por favor</p>
+  <p>Para hacer pruebas al sistema, ingrese con los siguientes usuarios por favor:</p>
   <table class="table">
     <thead>
       <tr>
