@@ -15,7 +15,7 @@
 
 <p><strong>Nantli</strong> será un sistema para consulta en tiempo real de administración de información del Programa Apoyo a Jefas de Familia del Gobierno del Estado de Jalisco.</p>
 
-<div class="container">
+<div class="container" aling=center>
   <h2>Usuarios del sistema</h2>
   <p>Para hacer pruebas al sistema, ingrese con los siguientes usuarios por favor:</p>
   <table class="table">
